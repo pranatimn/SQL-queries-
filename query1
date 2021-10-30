@@ -1,1 +1,10 @@
-select count(*) from olympics_history
+select count(*)
+from olympics_history 
+
+/*
+
+output
+
+*/
+
+
