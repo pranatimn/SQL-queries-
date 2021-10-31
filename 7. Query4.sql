@@ -1,4 +1,4 @@
-*/
+/*
 
 Which year saw the highest and lowest no of countries participating in olympics
 
