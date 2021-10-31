@@ -1,4 +1,4 @@
-*/
+/*
 
 Mention the total no of nations who participated in each olympics game?
 
