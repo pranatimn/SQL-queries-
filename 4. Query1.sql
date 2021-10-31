@@ -1,4 +1,4 @@
-*/
+/*
 
 How many olympics games have been held?
 
