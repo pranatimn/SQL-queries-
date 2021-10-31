@@ -1,4 +1,4 @@
-*/
+/*
 
 Which nation has participated in all of the olympic games
 
@@ -11,7 +11,7 @@ from olympics_history
 group by team
 
 
-*/
+/*
 
 output
 
