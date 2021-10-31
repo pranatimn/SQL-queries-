@@ -1,4 +1,4 @@
-*/
+/*
 
 Identify the sport which was played in all summer olympics.
 
@@ -9,7 +9,7 @@ from olympics_history
 group by games 
 order by count(distinct sport) desc
 
-*/
+/*
 
 output
 
